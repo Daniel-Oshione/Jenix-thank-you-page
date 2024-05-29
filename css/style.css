@@ -21,6 +21,10 @@
        flex-direction: column;
        padding-top: 30px;
     }
+    .check{
+        width: 100px;
+        object-fit: cover;
+    }
     .center button{
         margin-top: 50px;
         padding: 7px 60px;
